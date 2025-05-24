@@ -1,0 +1,7 @@
+PORT=10000
+
+MONGO_URI=mongodb+srv://Aliyubabaskill-sure_user:<your_password>@cluster0skill-sure.mxepuga.mongodb.net/skillsure?retryWrites=true&w=majority&appName=Cluster0skill-sure
+
+JWT_SECRET=skillsure_super_secret_key
+
+STRIPE_SECRET_KEY=your_stripe_secret_key_here
